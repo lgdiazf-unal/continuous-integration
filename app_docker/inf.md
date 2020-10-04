@@ -1,0 +1,1 @@
+Esta carpeta tiene un contenidor con node 12.18 donde se ejecutará la app `proboto` 
